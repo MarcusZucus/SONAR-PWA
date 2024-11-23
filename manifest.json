@@ -1,6 +1,6 @@
 {
-  "name": "Mi Aplicación PWA",
-  "short_name": "MiApp",
+  "name": "Sonar-PWA",
+  "short_name": "Sonar",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
